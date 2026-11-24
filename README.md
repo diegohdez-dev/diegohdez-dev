@@ -1,6 +1,6 @@
 # Diego Hernández 👋
 
-**Backend Engineer** (Python) | Odoo Integrations | FastAPI · PostgreSQL · Docker
+**Software engineer** | Python | Odoo | FastAPI · PostgreSQL · Docker
 
 Systems engineer and software developer specialized in Odoo and enterprise solutions. I work mainly on backend with Python and PostgreSQL, and on system integration through REST APIs. I use Docker and Git daily, and I’m focused on growing toward software architecture.
 
